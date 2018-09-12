@@ -8,7 +8,7 @@ struct threeNum
 
 /*
  * Escrevendo em um arquivo binário em C
- * 
+ *
  * */
 
 int main()
